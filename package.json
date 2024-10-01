@@ -1,0 +1,37 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "This is a React Project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonsaraqini/react-project.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "project"
+  ],
+  "author": "Leon Saraqini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonsaraqini/react-project/issues"
+  },
+  "homepage": "https://github.com/leonsaraqini/react-project#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
